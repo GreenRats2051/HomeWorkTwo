@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\ConsoleApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57B1FF81-DD86-4B86-98C2-788C548EC56A}|ConsoleApp3.csproj|c:\\users\\student\\source\\repos\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B1FF81-DD86-4B86-98C2-788C548EC56A}|ConsoleApp3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B1FF81-DD86-4B86-98C2-788C548EC56A}|ConsoleApp3.csproj|c:\\users\\student\\source\\repos\\consoleapp3\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B1FF81-DD86-4B86-98C2-788C548EC56A}|ConsoleApp3.csproj|solutionrelative:boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B1FF81-DD86-4B86-98C2-788C548EC56A}|ConsoleApp3.csproj|c:\\users\\student\\source\\repos\\consoleapp3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B1FF81-DD86-4B86-98C2-788C548EC56A}|ConsoleApp3.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B1FF81-DD86-4B86-98C2-788C548EC56A}|ConsoleApp3.csproj|c:\\users\\student\\source\\repos\\consoleapp3\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B1FF81-DD86-4B86-98C2-788C548EC56A}|ConsoleApp3.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B1FF81-DD86-4B86-98C2-788C548EC56A}|ConsoleApp3.csproj|c:\\users\\student\\source\\repos\\consoleapp3\\countryhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B1FF81-DD86-4B86-98C2-788C548EC56A}|ConsoleApp3.csproj|solutionrelative:countryhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B1FF81-DD86-4B86-98C2-788C548EC56A}|ConsoleApp3.csproj|c:\\users\\student\\source\\repos\\consoleapp3\\appartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B1FF81-DD86-4B86-98C2-788C548EC56A}|ConsoleApp3.csproj|solutionrelative:appartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B1FF81-DD86-4B86-98C2-788C548EC56A}|ConsoleApp3.csproj|c:\\users\\student\\source\\repos\\consoleapp3\\immovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B1FF81-DD86-4B86-98C2-788C548EC56A}|ConsoleApp3.csproj|solutionrelative:immovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B1FF81-DD86-4B86-98C2-788C548EC56A}|ConsoleApp3.csproj|c:\\users\\student\\source\\repos\\consoleapp3\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B1FF81-DD86-4B86-98C2-788C548EC56A}|ConsoleApp3.csproj|solutionrelative:property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Boat.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\ConsoleApp3\\Boat.cs",
+              "RelativeDocumentMoniker": "Boat.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\ConsoleApp3\\Boat.cs",
+              "RelativeToolTip": "Boat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:49:05.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\ConsoleApp3\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\ConsoleApp3\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:48:12.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\ConsoleApp3\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\ConsoleApp3\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:47:13.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountryHouse.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\ConsoleApp3\\CountryHouse.cs",
+              "RelativeDocumentMoniker": "CountryHouse.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\ConsoleApp3\\CountryHouse.cs",
+              "RelativeToolTip": "CountryHouse.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:45:33.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Appartment.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\ConsoleApp3\\Appartment.cs",
+              "RelativeDocumentMoniker": "Appartment.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\ConsoleApp3\\Appartment.cs",
+              "RelativeToolTip": "Appartment.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:40:43.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Immovable.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\ConsoleApp3\\Immovable.cs",
+              "RelativeDocumentMoniker": "Immovable.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\ConsoleApp3\\Immovable.cs",
+              "RelativeToolTip": "Immovable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:37:10.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\ConsoleApp3\\Property.cs",
+              "RelativeDocumentMoniker": "Property.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\ConsoleApp3\\Property.cs",
+              "RelativeToolTip": "Property.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:36:27.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:33:53.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
